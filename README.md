@@ -82,9 +82,9 @@ Analyze Pizza Palace's sales dataset to identify top-selling pizzas, revenue tre
 
 ## 📁 Files Included
 
-- Pizza_Palace_Dashboard.pbix – Power BI Report  
-- Pizza_Palace_Dataset.xlsx – Dataset file  
-- Pizza_Palace_Dashboard.png – Dashboard image  
+- Pizza Palace Dashboard.pbix – Power BI Report  
+- Pizza+Palace.Sales.xlsx – Dataset file  
+- Pizza_Palace.Dashboard.png – Dashboard image  
 
 ---
 
