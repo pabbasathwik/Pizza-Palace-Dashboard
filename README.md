@@ -47,7 +47,7 @@ Analyze Pizza Palace's sales dataset to identify top-selling pizzas, revenue tre
 
 ## 📸 Dashboard Preview
 
-![Pizza Palace Dashboard](Pizza_Palace_Dashboard.png)
+![Pizza Palace Dashboard](https://github.com/pabbasathwik/Pizza-Palace-Dashboard/blob/main/Pizza%20Palace.Dashboard.jpg)
 
 ---
 
