@@ -88,12 +88,22 @@ Analyze Pizza Palace's sales dataset to identify top-selling pizzas, revenue tre
 
 ---
 
-## 🙋‍♂ About Me
+## 🙋‍♂️ About Me
 
-I'm a data analyst with expertise in *Power BI, **Tableau, **SQL, **Python, **Excel, and **Data Visualization*. I help turn complex data into clear, actionable insights for better business decisions.  
-Check out more of my work on [GitHub](https://github.com/pabbasathwik)
+I'm **Sathwik Pabba**, a Data Analyst with strong skills in **Tableau**, **Power BI**, **SQL**, **Python**, **Pandas**, **NumPy**, **MongoDB**, and **Excel**. I enjoy working with real-world datasets to build dashboards and derive actionable insights.
+
+🔗 [GitHub Profile](https://github.com/pabbasathwik)
 
 ---
+
+## 📣 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/sathwikpabba)  
+- 📧 Email: [sathwikpabba18@gmail.com](mailto:sathwikpabba18@gmail.com)
+
+If you found this project helpful, ⭐ star the repo and explore my other dashboards and analysis projects on GitHub!
+
+> “Without data, you're just another person with an opinion.” – W. Edwards Deming 📊
 
 ## 🔗 Connect with Me
 
