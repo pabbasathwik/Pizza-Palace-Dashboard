@@ -104,8 +104,3 @@ I'm **Sathwik Pabba**, a Data Analyst with strong skills in **Tableau**, **Power
 If you found this project helpful, ⭐ star the repo and explore my other dashboards and analysis projects on GitHub!
 
 > “Without data, you're just another person with an opinion.” – W. Edwards Deming 📊
-
-## 🔗 Connect with Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/sathwikpabba)  
-- 📫 Email: sathwik.pabba18@email.com
